@@ -25,3 +25,4 @@ campuspulse-ai-service/
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
+.
